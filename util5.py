@@ -11,8 +11,6 @@ import time
 import gym
 import util4 as u4
 
-print('oogabooga 3.3 pickle')
-
 
 
 def count(policy, env, counter_max = 2000, verbose = False):
